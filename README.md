@@ -1,4 +1,4 @@
-Connect Unix machines in a web UIs and perform
+Connect Unix machines using web UIs and perform
 
 1. grep to find the text
 2. get the file from remote server
